@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ubonisrael Akpanudoh.
 
-- 🌐 Frontend Web Developer | React | Next.js | Tailwind CSS | HTML | CSS | JavaScript
+- 🌐 Frontend Web Developer | React | Next.js | Tailwind CSS | HTML | CSS | JavaScript | Typescript
 - 🚀 Passionate about creating intuitive and visually appealing web experiences. With expertise in React, Next.js, Tailwind CSS, HTML, CSS, and JavaScript, I have a strong foundation in building modern, responsive web applications.
 - 🔭 I’m currently working on honing my skills in Node.js to broaden my backend development capabilities and become a well-rounded web developer. Excited about the potential of full-stack development, I'm exploring Node.js to build robust and scalable applications.
 - 🌱 I’m a perpetual learner, always seeking to expand my knowledge and keep up with the latest trends in web development. Currently, I'm diving deep into Node.js to deepen my understanding of server-side programming and RESTful API development.
